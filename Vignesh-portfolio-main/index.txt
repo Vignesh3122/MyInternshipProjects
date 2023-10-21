@@ -1,8 +1,8 @@
-Jack - personal portfolio
+Vignesh - personal portfolio
 
-# HEDER
+# HEADER
 
-Jack.
+Vignesh.
 
 En
 Ar
@@ -25,7 +25,7 @@ Contact.
 
 alt = A man in a blue shirt with a happy expression
 
-We Design & Build Creative Products
+I Design & Build Creative Products
 
 Get in touch
 
@@ -46,19 +46,19 @@ Scroll
 
 alt = Badge icon
 
-12+
+1+
 Years of Experience
 
 <ion-icon name="chevron-forward-outline"></ion-icon>
 
 alt = Checkmark icon
 
-230+
+20
 Completed Projects
 
 alt = Peoples rating icon
 
-95+
+9
 Happy Clients
 
 
@@ -71,7 +71,7 @@ About me
 
 Need a Creative Product? I can Help You!
 
-Hi! I’m Jack Reacher, and I’m a developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
+Hi! I’m Vignesh B S, and I’m a developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
 
 Hire me
 
@@ -209,17 +209,17 @@ Get in touch and let me know how i can help. Fill out the form and i’ll be in 
 
 <ion-icon name="location-outline"></ion-icon>
 Address:
-941 Saqrqorish Road, alandalos, grnata, wa 47122-4194
+732 Ananda layout Mysuru
 
 <ion-icon name="call-outline"></ion-icon>
 Phone:
-(01) 234 567 789
-(09) 765 432 200
+(+91) 905 874 9854
+(+91) 952 787 5748
 
 <ion-icon name="mail-outline"></ion-icon>
 Email:
-info@jack.com
-support@jack.com
+info@viggu.com
+support@viggu.com
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
@@ -228,11 +228,11 @@ support@jack.com
 
 Name
 <ion-icon name="person-circle"></ion-icon>
-placeholder = e.g John Doe
+placeholder = e.g Vignesh
 
 Email
 <ion-icon name="mail"></ion-icon>
-placeholder = e.g johndoe@mail.com
+placeholder = e.g vigneshvigu3122@mail.com
 
 Phone
 <ion-icon name="call"></ion-icon>
@@ -248,9 +248,9 @@ Send
 
 # FOOTER
 
-Jack.
+Vignesh.
 
-&copy; 2022 codewithsadee. All rights reserved
+&copy; 2023 Vignesh. All rights reserved
 
 
 
