@@ -15,11 +15,6 @@ create, manage, and save todos, all while enjoying a beautiful user interface de
 - Filter to-dos by status
 
 
-## Screenshots
-
-![image](https://github.com/abdellatif-laghjaj/todo-list/assets/79521157/2bc510e2-5f2f-456b-acc2-31b8c8232d93)
-
-
 ## Technologies Used
 
 - HTML5: The structure of the web app.
