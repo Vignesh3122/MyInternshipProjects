@@ -23,10 +23,8 @@ create, manage, and save todos, all while enjoying a beautiful user interface de
 ## Technologies Used
 
 - HTML5: The structure of the web app.
-- CSS3 with Tailwind CSS: For styling the app beautifully.
+- CSS3 : For styling the app beautifully.
 - JavaScript: To handle the interactive functionality of the app.
-- Local Storage: To save todos for persistent data across browser sessions.
 
-## Getting Started
 
-To run the Todo List web app on your local machine, follow these steps
+
